@@ -1,3 +1,5 @@
+.DS_Store
+*/.DS_Store
 Advanced_Biostatistics/HW1/LIHC_counts.csv
 Advanced_Biostatistics/HW1/LIHC_phenotypes.csv
 Advanced_Biostatistics/HW1/prostate_counts.csv
