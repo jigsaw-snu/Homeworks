@@ -3,6 +3,8 @@
 *.Rproj.user*
 *.Rproj*
 .Rproj.user
+*.Rhistory
+*.RData
 
 
 Advanced_Biostatistics/HW1/Dataset/LIHC_counts.csv
