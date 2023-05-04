@@ -8,3 +8,4 @@ Advanced_Biostatistics/HW1/Dataset/thyroid_counts.csv
 Advanced_Biostatistics/HW1/Dataset/thyroid_phenotypes.csv
 *.Rproj.user*
 *.Rproj*
+.Rproj.user
