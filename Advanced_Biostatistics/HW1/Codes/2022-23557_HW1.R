@@ -135,6 +135,11 @@ names(long_RLE)[1:2] <- c("gene", "sample")
 long_RLE$method <- rep("RLE", nrow(long_RLE))
 
 
+
+ggplot(long_RAW, aes(x = sample, y = value, fill = method)) +
+    geom_boxplot() +
+    facet_wrap(~method, scales = "free")
+
 all_norms <- rbind(long_RAW, long_TC, long_UQ, long_TMM, long_RLE)
 
 
